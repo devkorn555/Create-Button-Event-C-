@@ -1,0 +1,9 @@
+D:\C#\btnEvent\btnEvent\bin\Debug\btnEvent.exe.config
+D:\C#\btnEvent\btnEvent\bin\Debug\btnEvent.exe
+D:\C#\btnEvent\btnEvent\bin\Debug\btnEvent.pdb
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.csprojResolveAssemblyReference.cache
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.Form1.resources
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.Properties.Resources.resources
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.csproj.GenerateResource.Cache
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.exe
+D:\C#\btnEvent\btnEvent\obj\Debug\btnEvent.pdb
